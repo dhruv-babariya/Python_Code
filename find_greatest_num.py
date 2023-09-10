@@ -1,3 +1,5 @@
+#Write a program to find Greatest of 4 numbers entered by the user.
+
 A = int(input('Enter the first number: '))
 B = int(input('Enter the second number: '))
 C = int(input('Enter the third number: '))
