@@ -1,3 +1,5 @@
+# Write a program which will return factorial number
+
 num = int(input('Enter a number: '))
 f = 1
 
