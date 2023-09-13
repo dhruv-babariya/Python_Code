@@ -1,4 +1,4 @@
-# Using with "def" write a program which find a greatest number
+# Using "def" write a program that finds the greatest number
 
 
 def maximum(num1, num2, num3):
@@ -15,4 +15,4 @@ def maximum(num1, num2, num3):
             return (num3)
 
 n = maximum(200, 30000, 40)
-print(n)
+print(f"The maximum value is {n}")
